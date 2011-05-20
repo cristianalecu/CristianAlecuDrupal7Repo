@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cristian Alecu <cristianalecu@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "My Objectives"
+msgstr ""
+
+#: /ro/userobjectives
+msgid ""
+"You have no Objectives defined. Please create a <a href=\"node/add/objective\">new Objective</a> <br><br>\n"
+"\n"
+"You must be <a href=\"user\">Logged in</a> to create Objectives. Only you have access to your objectives."
+msgstr ""
+
+#: /ro/node/add/objective
+msgid ""
+"<p>\r\n"
+"\tWrite the actions you should make, in steps, as detailed as possible, to achieve the goal.</p>\r\n"
+"<p>\r\n"
+"\tWrite small steps. You don&#39;t need to see the whole road, only the next 50 foots, and the indicators.</p>\r\n"
+"<p>\r\n"
+"\tYou must follow it and then&nbsp; develop / increase / improve&nbsp; it every time you find new ways to your goal.</p>\r\n"
+msgstr ""
+
+msgid "Objective"
+msgstr ""
+
+msgid "Milestone"
+msgstr ""
+
+msgid "WHY ?"
+msgstr ""
+
+msgid "How should I be ?"
+msgstr ""
+
+msgid "Person"
+msgstr ""
+
+msgid "What should I know ?"
+msgstr ""
+
+msgid "Study"
+msgstr ""
+
+msgid "What TO DO ?"
+msgstr ""
+
+msgid "The plan"
+msgstr ""
+
+msgid "Emotions"
+msgstr ""
+
+msgid ""
+"<p>\r\n"
+"\tEnter the strongest emotion(s) that determine you to have this "
+"objective:</p>\r\n"
+"<ul>\r\n"
+"\t<li>\r\n"
+"\t\tIntimate feelings of ambition, passion, revenge</li>\r\n"
+"\t<li>\r\n"
+"\t\tTo be rewarded, to prove something, to be recognized</li>\r\n"
+"\t<li>\r\n"
+"\t\tSatisfaction, prove to yourself that you are a winner</li>\r\n"
+"\t<li>\r\n"
+"\t\tYou want it for the family, people you love, help friends</li>\r\n"
+"\t<li>\r\n"
+"\t\tTo be grateful and share it with others</li>\r\n"
+"</ul>\r\n"
+msgstr ""
+
+
+msgid ""
+"<p>\r\n"
+"\tWrite what kind of person you want to be to complete your "
+"objective.<br />\r\n"
+"\tStart by saying that you trust yourself and believe you can do "
+"it.</p>\r\n"
+msgstr ""
+
+msgid ""
+"<p>\r\n"
+"\tWrite what do you think you should read, learn, understand, know in "
+"order to achieve your objective.</p>\r\n"
+msgstr ""
+
+
+#: /ro/node/add/objective
+msgid ""
+"<p>\r\n"
+"\tWrite the actions you should make, in steps, as detailed as "
+"possible, to achieve the goal.</p>\r\n"
+"<p>\r\n"
+"\tWrite small steps. You don&#39;t need to see the whole road, only "
+"the next 50 foots, and the indicators.</p>\r\n"
+"<p>\r\n"
+"\tYou must follow it and then&nbsp; develop / increase / improve&nbsp; "
+"it every time you find new ways to your goal.</p>\r\n"
+msgstr ""
+
+

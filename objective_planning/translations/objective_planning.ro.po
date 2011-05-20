@@ -1,0 +1,226 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cristian Alecu <cristianalecu@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "My Objectives"
+msgstr "Scopurile mele"
+
+#: /ro/userobjectives
+msgid ""
+"You have no Objectives defined. Please create a <a href=\"node/add/objective\">new Objective</a> <br><br>\n"
+"\n"
+"You must be <a href=\"user\">Logged in</a> to create Objectives. Only you have access to your objectives."
+msgstr ""
+"Nu aveţi scopuri definite. Vă rugăm sa creaţi un <a "
+
+"href=\"node/add/objective\">Scop nou</a>  <br><br>\n"
+
+"\n"
+
+"Trebuie să fiţi <a href=\"user\">Autentificat</a> pentru a crea Objective.\n"
+
+"Nici un alt utilizator nu are acces la lista dumneavoastră de obiective."
+
+
+#: /ro/node/add/objective
+msgid ""
+"<p>\r\n"
+"\tWrite the actions you should make, in steps, as detailed as possible, to achieve the goal.</p>\r\n"
+"<p>\r\n"
+"\tWrite small steps. You don&#39;t need to see the whole road, only the next 50 foots, and the indicators.</p>\r\n"
+"<p>\r\n"
+"\tYou must follow it and then&nbsp; develop / increase / improve&nbsp; it every time you find new ways to your goal.</p>\r\n"
+msgstr ""
+"<p>\r\n"
+
+"\tScrieţi ce acţiuni trebuie să faceţi, în etape, cât "
+
+"mai detaliat, pentru atingerea scopului.</p>\r\n"
+
+"<p>\r\n"
+
+"\tScrieţi paşi mici. Nu e nevoie să vedeţi tot drumul, ci doar "
+
+"urnătorii 50m şi indicatoarele.</p>\r\n"
+
+"<p>\r\n"
+
+"\tTrebuie să urmaţi planul şi să-l dezvoltaţi, "
+
+"îmbunătăţiţi de fiecare dată când găsiţi noi căi "
+
+"către atingerea scopului dumneavoastră.</p>\r\n"
+
+
+#: /ro/node/add/objective
+
+msgid "Milestone"
+
+msgstr "Data limită"
+
+
+#: /ro/node/add/objective
+
+msgid "WHY ?"
+
+msgstr "DE CE ?"
+
+
+#: /ro/node/add/objective
+
+msgid "Emotions"
+
+msgstr "Emoţii"
+
+
+
+#: /ro/node/add/objective
+
+msgid "How should I be ?"
+
+msgstr "Cum trebuie să fiu ?"
+
+#: /ro/node/add/objective
+
+msgid "Person"
+msgstr "Persoană"
+
+
+
+#: /ro/node/add/objective
+
+
+msgid "What should I know ?"
+
+msgstr "Ce trebuie să ştiu ?"
+
+#: /ro/node/add/objective
+
+msgid "Study"
+msgstr "Studiază"
+
+
+
+
+#: /ro/node/add/objective
+
+msgid "What TO DO ?"
+
+msgstr "Ce trebuie făcut ?"
+
+#: /ro/node/add/objective
+
+msgid "The plan"
+msgstr "Planul"
+
+
+#: /ro/node/add/objective
+
+msgid ""
+"<p>\r\n"
+"\tEnter the strongest emotion(s) that determine you to have this "
+"objective:</p>\r\n"
+"<ul>\r\n"
+"\t<li>\r\n"
+"\t\tIntimate feelings of ambition, passion, revenge</li>\r\n"
+"\t<li>\r\n"
+"\t\tTo be rewarded, to prove something, to be recognized</li>\r\n"
+"\t<li>\r\n"
+"\t\tSatisfaction, prove to yourself that you are a winner</li>\r\n"
+"\t<li>\r\n"
+"\t\tYou want it for the family, people you love, help friends</li>\r\n"
+"\t<li>\r\n"
+"\t\tTo be grateful and share it with others</li>\r\n"
+"</ul>\r\n"
+
+msgstr ""
+"<p>\r\n"
+"\tScrieţi cele mai puternice sentimente care vă determină să "
+"aveţi acest scop:</p>\r\n"
+"<ul>\r\n"
+"\t<li>\r\n"
+"\t\tSentimente intime de ambiţie, pasiune, răzbunare</li>\r\n"
+"\t<li>\r\n"
+"\t\tRecunoaşterea meritelor, recompensare, vei să dovedeşti "
+"ceva</li>\r\n"
+"\t<li>\r\n"
+"\t\tSatisfacţie personală, vrei să-ţi dovedeşti că eşti un "
+"&icirc;nvingător</li>\r\n"
+"\t<li>\r\n"
+"\t\tTrebuie pentru familia ta, pentru cineva drag sau iubit, sa-ţi "
+"ajuţi prietenii</li>\r\n"
+"\t<li>\r\n"
+"\t\tPentru a fi mărinimos şi a &icirc;mpărţi cu alţii</li>\r\n"
+"</ul>\r\n"
+
+
+
+
+#: /ro/node/add/objective
+
+msgid ""
+"<p>\r\n"
+"\tWrite what kind of person you want to be to complete your "
+"objective.<br />\r\n"
+"\tStart by saying that you trust yourself and believe you can do "
+"it.</p>\r\n"
+
+msgstr ""
+"<p>\r\n"
+"\tScrieţi ce fel de persoană trebuie să fiţi pentru atinge acest "
+"scop.<br />\r\n"
+"\t&Icirc;ncepeti prin a afirma stima de sine, că aveţi "
+"&icirc;ncredere &icirc;n dumneavoastră şi credeţi că puteţi "
+"atinge acest scop.</p>\r\n"
+
+
+
+
+#: /ro/node/add/objective
+
+msgid ""
+"<p>\r\n"
+"\tWrite what do you think you should read, learn, understand, know in "
+"order to achieve your objective.</p>\r\n"
+
+msgstr ""
+"<p>\r\n"
+"\tScrieţi ce credeţi că ar trebui să ştiţi, să citiţi, să "
+"&icirc;nvăţaţi, să &icirc;nţelegeţi pentru a atinge acest "
+"scop.</p>\r\n"
+
+
+
+#: /ro/node/add/objective
+
+msgid ""
+"<p>\r\n"
+"\tWrite the actions you should make, in steps, as detailed as "
+"possible, to achieve the goal.</p>\r\n"
+"<p>\r\n"
+"\tWrite small steps. You don&#39;t need to see the whole road, only "
+"the next 50 foots, and the indicators.</p>\r\n"
+"<p>\r\n"
+"\tYou must follow it and then&nbsp; develop / increase / improve&nbsp; "
+"it every time you find new ways to your goal.</p>\r\n"
+
+msgstr ""
+"<p>\r\n"
+"\tScrieţi ce acţiuni trebuie să faceţi, &icirc;n etape, c&acirc;t "
+"mai detaliat, pentru atingerea scopului.</p>\r\n"
+"<p>\r\n"
+"\tScrieţi paşi mici. Nu e nevoie să vedeţi tot drumul, ci doar "
+"urnătorii 50m şi indicatoarele.</p>\r\n"
+"<p>\r\n"
+"\tTrebuie să urmaţi planul şi să-l dezvoltaţi, "
+"&icirc;mbunătăţiţi de fiecare dată c&acirc;nd găsiţi noi căi "
+"către atingerea scopului dumneavoastră.</p>\r\n"
+
+

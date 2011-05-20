@@ -1,0 +1,26 @@
+.group-obj-why {
+    float: left;
+    width: 46%;
+}
+
+.group-obj-be {
+    float: right;
+    width: 46%;
+}
+
+.group-obj-know {
+    float: left;
+    width: 46%;
+}
+
+.group-obj-plan {
+    float: right;
+    width: 46%;
+}
+
+.hilited {
+  color: #000;
+  font-weight: bold;
+  background-color: #ffd;
+  padding-left: 10px;
+}
