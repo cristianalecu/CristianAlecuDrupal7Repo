@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FullLayoutComponent implements OnInit {
 
+  public showTopMenu = false;
+
   public disabled = false;
   public status: {isopen: boolean} = {isopen: false};
 

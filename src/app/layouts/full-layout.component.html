@@ -1,7 +1,10 @@
+<button class="navbar-toggler d-lg-none" type="button" 
+  style="position: fixed !important; z-index:2000;padding: 0.25rem 0;" appMobileSidebarToggler>&#9776;</button>
+<button class="navbar-toggler d-md-down-none" type="button" 
+  style="position: fixed !important; z-index:2000;padding: 0.25rem 0;"  appSidebarMinimizer>&#9776;</button>
 <header class="app-header navbar">
-  <button class="navbar-toggler d-lg-none" type="button" appMobileSidebarToggler>&#9776;</button>
-  <a class="navbar-brand" href="#"></a>
-  <button class="navbar-toggler d-md-down-none" type="button" appSidebarToggler>&#9776;</button>
+  <a *ngIf="showTopMenu"  class="navbar-brand" href="#"></a>
+  <div *ngIf="showTopMenu">
   <ul class="nav navbar-nav d-md-down-none">
     <li class="nav-item px-3">
       <a class="nav-link" href="#">Dashboard</a>
@@ -13,7 +16,8 @@
       <a class="nav-link" href="#">Settings</a>
     </li>
   </ul>
-  <ul class="nav navbar-nav ml-auto">
+  </div>
+  <ul  *ngIf="showTopMenu" class="nav navbar-nav ml-auto">
     <li class="nav-item d-md-down-none">
       <a class="nav-link" href="#"><i class="icon-bell"></i><span class="badge badge-pill badge-danger">5</span></a>
     </li>
@@ -57,9 +61,22 @@
     <nav class="sidebar-nav">
       <ul class="nav">
         <li class="nav-item">
-          <a class="nav-link" routerLinkActive="active" [routerLink]="['/dashboard']"><i class="icon-speedometer"></i> Dashboard <span class="badge badge-info">NEW</span></a>
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/dashboard']"><i class="icon-speedometer"></i> Dashboard </a>
         </li>
         <li class="divider"></li>
+        <li class="nav-item nav-dropdown" routerLinkActive="open" appNavDropdown>
+          <a class="nav-link nav-dropdown-toggle" href="#" appNavDropdownToggle><i class="icon-calculator"></i> 09. Tobacco sales</a>
+          <ul class="nav-dropdown-items">
+            <li class="nav-item">
+              <a class="nav-link" routerLinkActive="active" [routerLink]="['/tobacco/locations']"><i class="icon-puzzle"></i> Locations</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/settings']"><i class="icon-settings"></i>Account Settings</a>
+        </li>
+        
+        
         <li class="nav-title">
           UI Elements
         </li>
@@ -130,6 +147,8 @@
             </li>
           </ul>
         </li>
+       
+        
       </ul>
     </nav>
   </div>
@@ -410,7 +429,3 @@
   </aside>
 </div>
 
-<footer class="app-footer">
-  <a href="http://coreui.io">CoreUI</a> &copy; 2017 creativeLabs.
-  <span class="float-right">Powered by <a href="http://coreui.io">CoreUI</a></span>
-</footer>

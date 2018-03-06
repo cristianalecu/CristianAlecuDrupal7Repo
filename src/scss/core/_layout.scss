@@ -317,7 +317,7 @@ app-root {
 @include media-breakpoint-down(md) {
 
   .app-header {
-    position: fixed !important;
+    //position: fixed !important;
     z-index: $zindex-sticky;
     width: 100%;
     text-align: center;
@@ -338,7 +338,7 @@ app-root {
   }
 
   .app-body {
-    margin-top: $navbar-height;
+    //margin-top: $navbar-height;
   }
 
   .sidebar {

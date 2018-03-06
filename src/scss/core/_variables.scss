@@ -36,7 +36,7 @@ $vimeo:                               #aad450 !default;
 
 // Navbar
 
-$navbar-height:                       55px !default;
+$navbar-height:                       46px !default;
 $navbar-bg:                           #fff !default;
 $navbar-border: (
   bottom: (
@@ -58,8 +58,8 @@ $navbar-brand-border: (
 ) !default;
 
 $navbar-color:                        $gray-600 !default;
-$navbar-hover-color:                  $gray-800 !default;
-$navbar-active-color:                 $gray-800 !default;
+$navbar-hover-color:                  $yahoo !default;
+$navbar-active-color:                 $yahoo !default;
 $navbar-disabled-color:               $gray-300 !default;
 
 // Sidebar
@@ -71,7 +71,7 @@ $sidebar-minimized-height:            $sidebar-minimized-width !default;
 $sidebar-compact-width:               150px !default;
 $sidebar-compact-height:              $sidebar-compact-width !default;
 $sidebar-color:                       #fff !default;
-$sidebar-bg:                          $gray-800 !default;
+$sidebar-bg:                          $yahoo !default;
 $sidebar-header-bg:                   rgba(0,0,0,.2) !default;
 $sidebar-footer-bg:                   rgba(0,0,0,.2) !default;
 $sidebar-borders:                     none !default;
